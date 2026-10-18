@@ -149,6 +149,7 @@ $$\text{Dane} \longrightarrow \text{Model i Trening} \longrightarrow \text{Ewalu
 
 ### Artykuł 1
 * **Tytuł:** *A Transfer Learning Evaluation of Deep Neural Networks for Image Classification*
+* **Autorzy:** Nermeen Abou Baker, Nico Zengeler, Uwe Handmann
 * **Tłumaczenie:** Ocena uczenia transferowego w głębokich sieciach neuronowych do klasyfikacji obrazów
 * **Rok publikacji:** 2022
 * **Link:** [MDPI Article](https://www.mdpi.com/2504-4990/4/1/2) | **DOI:** [10.3390/make4010002](https://doi.org/10.3390/make4010002)
@@ -166,6 +167,7 @@ Skuteczność zależy między innymi od charakterystyki zbioru docelowego, podob
 
 ### Artykuł 2
 * **Tytuł:** *Fruit Image Classification Model Based on MobileNetV2 with Deep Transfer Learning Technique*
+* **Autor:** Yonis Gulzar
 * **Tłumaczenie:** Model klasyfikacji obrazów owoców oparty na MobileNetV2 z wykorzystaniem głębokiego uczenia transferowego
 * **Rok publikacji:** 2023
 * **Link:** [MDPI Article](https://www.mdpi.com/2071-1050/15/3/1906) | **DOI:** [10.3390/su15031906](https://doi.org/10.3390/su15031906)
