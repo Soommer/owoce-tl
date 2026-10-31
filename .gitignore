@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# narzędzia
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+
+# systemowe
+.DS_Store
+Thumbs.db
+desktop.ini
