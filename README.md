@@ -73,7 +73,7 @@ Pliku, którego nie da się odczytać, raport nie przerywa. Taki plik trafia do 
 z `poprawnie = błąd`, jest wypisany w konsoli i nie wlicza się do accuracy.
 
 Plik `wyniki.csv` w repozytorium to taki raport dla 1025 zdjęć testowych:
-**0,938 (961/1025)**, około 46 ms na zdjęcie na CPU (wczytanie pliku, skalowanie
+**0,938 (961/1025)**, średnio około 36 ms na zdjęcie na CPU (wczytanie pliku, skalowanie
 i sieć).
 
 ## Jak działa rozpoznawanie
@@ -107,6 +107,8 @@ fruit_effnet.pt            wagi modelu
 owoce_effnet.ipynb         trening i analiza wyników
 wyniki.csv                 raport app.py dla zbioru testowego (1025 zdjęć)
 konspekt_projektu.md       konspekt projektu
+dokumentacja_projektu.md   dokumentacja projektowa (wyniki, diagramy UML, instrukcje)
+docs/img/                  wykresy z notebooka i zrzuty ekranu do dokumentacji
 requirements.txt           biblioteki aplikacji
 requirements-notebook.txt  dodatkowe biblioteki do notebooka
 LICENSE                    licencja projektu (Apache 2.0)
